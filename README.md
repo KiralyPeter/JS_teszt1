@@ -1,1 +1,1 @@
-# Sablon projekt NodeJS-hez
+# Saját tesztelésre, tanulásra
